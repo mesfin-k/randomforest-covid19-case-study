@@ -2,17 +2,6 @@
 
 This project is a machine learning case study using the Random Forest algorithm to analyze COVID-19 patient data from South Korea. It demonstrates how ensemble methods outperform simpler models in the presence of multicollinearity and missing data.
 
-## 📁 Project Structure
-
-RandomForest Covid Case Study/
-├── RandomForest_casestudy_covid19.ipynb # Main notebook with all analysis
-├── tree.dot # Decision tree file (optional visualization)
-├── tree.png # PNG visualization of one decision tree
-├── SouthKoreacoronavirusdataset/
-│ └── PatientInfo.csv # Raw dataset of COVID-19 patients
-
-
-
 ## 📊 Objective
 
 - Predict the **patient state** (isolated, released, deceased) using patient data
